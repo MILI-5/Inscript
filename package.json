@@ -1,0 +1,24 @@
+{
+  "name": "inscript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MILI-5/Inscript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MILI-5/Inscript/issues"
+  },
+  "homepage": "https://github.com/MILI-5/Inscript#readme",
+  "devDependencies": {
+    "vite": "^7.0.4"
+  }
+}
